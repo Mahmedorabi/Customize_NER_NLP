@@ -18,7 +18,7 @@ This project demonstrates how to create and train a custom Named Entity Recognit
 
 - Run the Jupyter notebook or Python script to train the model:
 
-## The script will:
+### The script will:
 - Create a blank English language model
 - Add NER pipeline to the model
 - Train the model on the provided data
