@@ -45,3 +45,17 @@ You can customize the model by:
 
 - The current implementation uses a small dataset for demonstration purposes. For production use, a larger and more diverse dataset is recommended.
 - The model's performance may vary depending on the quality and quantity of training data.
+
+## Predication Of Model
+```
+Entity [('Albert Einstein', 'PERSON')]
+Entity [('Nelson Mandela', 'LOC')]
+Entity []
+Entity []
+Entity []
+Entity []
+Entity []
+Entity []
+Entity []
+Entity []
+```
